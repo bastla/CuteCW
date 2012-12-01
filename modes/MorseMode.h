@@ -7,7 +7,7 @@
 #include <QtCore/QSignalMapper>
 #include <QtCore/QSettings>
 #include <QtGui/QBoxLayout>
-#include <qaudio.h>
+#include <QtMultimediaKit/qaudio.h>
 
 // #include "Morse.h"
 #include "ui_MainWindow.h"

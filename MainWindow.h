@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtMultimedia/QAudioOutput>
+#include <QtMultimediaKit/QAudioOutput>
 #include <QtCore/QSignalMapper>
 #include <QtGui/QKeyEvent>
 #include "Generator.h"
