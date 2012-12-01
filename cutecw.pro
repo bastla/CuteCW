@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui multimedia network xml
+QT       += core gui mobility multimediakit network xml
 
 TARGET = cutecw
 TEMPLATE = app
@@ -85,7 +85,7 @@ HEADERS  += MainWindow.h \
 FORMS    += AboutDialog.ui
 
 CONFIG += mobility
-MOBILITY = 
+MOBILITY = multimedia
 
 symbian {
     TARGET.UID3 = 0xe0df144b
